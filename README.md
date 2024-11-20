@@ -1,5 +1,5 @@
-# PYTHON
-Projeto de sustentabilidade desenvolvido na disciplina de Edge Computing para Global Solution da FIAP.
+# GS PYTHON
+Projeto de sustentabilidade desenvolvido na disciplina de Python para Global Solution da FIAP.
 
 ## Integrantes
 - Estefany Caetano de Jesus RM: 560181
