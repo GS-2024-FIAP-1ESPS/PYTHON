@@ -1,6 +1,9 @@
 # GS PYTHON
 Projeto de sustentabilidade desenvolvido na disciplina de Python para Global Solution da FIAP.
 
+## Link Vídeo Explicativo
+https://drive.google.com/file/d/1PSRT9EuAoZsMCgeHhFo0vJAe98_Js8xj/view?usp=sharing 
+
 ## Integrantes
 - Estefany Caetano de Jesus RM: 560181
 - Gabrielly Cândido Camargo da Silva RM: 560916
